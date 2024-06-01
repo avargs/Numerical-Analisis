@@ -1,0 +1,1 @@
+print('saludos desde el bloc de notas')
